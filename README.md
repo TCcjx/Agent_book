@@ -7,6 +7,13 @@
 - 🧪 **109 个配套实验**：`chapter1/` ~ `chapter10/`，与书中章节一一对应，可亲手运行
 - 📦 **共享依赖包**：`agentbook/`，各实验共用的模型提供商适配与工具函数
 
+## 📥 电子书下载
+
+PDF 电子书（不入库，请在网盘下载）：
+
+- **网盘文件**：`agentic-ai-guide-zh-v1.0.2.pdf`
+- **下载链接**：[百度网盘](https://pan.baidu.com/s/1RnVq7bCiHihlm7wUYYvh8w?pwd=pwpd) · 提取码：`pwpd`
+
 ## 推荐学习路线
 
 > 核心公式：**Agent = LLM + 上下文 + 工具**
