@@ -36,6 +36,18 @@ book*/深入理解-AI-Agent-*.pdf
 # Local ebook copy (kept on disk, not distributed via git)
 /AI-Agents-in-Depth-zh-CN.pdf
 
+# Experiment run outputs and evidence data (regenerated when you run experiments)
+runs/
+validation/
+results/
+checkpoints/
+source_cache/
+trajectories/
+*.mov
+*.pt
+*.pth
+*.safetensors
+
 # Python packaging build artifacts (editable installs).
 # Anchored to the repository root: unanchored build/ and dist/ patterns would
 # also match vendored web bundles such as
